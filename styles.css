@@ -527,6 +527,14 @@ a {
   display: none;
 }
 
+.policy-list {
+  margin-left: 2rem;
+}
+
+.policy-list li {
+  margin-bottom: 1rem;
+}
+
 /* Responsive adjustments for screens smaller than 768px */
 @media (max-width: 768px) {
   body {
